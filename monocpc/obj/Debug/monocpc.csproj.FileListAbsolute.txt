@@ -1,0 +1,64 @@
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Debug\monocpc.csprojResolveAssemblyReference.cache
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Debug\monocpc.csproj.CoreCompileInputs.cache
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\monocpc.exe
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\monocpc.pdb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.Net.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Lidgren.Network.dll
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Lidgren.Network.xml
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Debug\monocpc.csproj.CopyComplete
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Debug\monocpc.exe
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Debug\monocpc.pdb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\CRT.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\DebugFont.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\white.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Astro Attack.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Barbarian.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Beach-Head.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Chuckie Egg.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Dizzy.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Eagles Nest.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Finders Keepers.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Friday The 13th.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Ghost Hunters.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Ghostbusters.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Ikari Warriors.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Joe Blade 3.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Lemmings.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Lost Caves.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Manic Miner.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Monty On The Run.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Nebulus.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Prince of the Yolkfolk.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Rainbow Islands.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Rocky Horror.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Roland In Space.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Roland In Time.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Roland On The Ropes.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Skool+Daze+CPC+[music+working].xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Sorcery.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Spindizzy.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Spy vs Spy.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Strangeloop.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Super Sleuth.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Survivor.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Temple Of Doom.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\The Addams Family.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Thing On A Spring.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Tombstowne.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Tubaruba.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Turrican 2.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Vampire.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\sna\Werewolves of London.xnb
+E:\Work\Workspace\monocpc\monocpc\monocpc\bin\DesktopGL\AnyCPU\Debug\Content\rom\CPC464.xnb

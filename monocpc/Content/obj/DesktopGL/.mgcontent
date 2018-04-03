@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/DebugFont.spritefont</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/white.bmp</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/CRT.fx</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/rom/CPC464.ROM</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Astro Attack.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Barbarian.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Beach-Head.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Chuckie Egg.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Dizzy.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Eagles Nest.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Finders Keepers.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Friday The 13th.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Ghost Hunters.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Ghostbusters.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Ikari Warriors.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Joe Blade 3.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Lemmings.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Lost Caves.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Manic Miner.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Monty On The Run.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Nebulus.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Prince of the Yolkfolk.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Rainbow Islands.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Rocky Horror.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Roland In Space.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Roland In Time.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Roland On The Ropes.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Skool+Daze+CPC+[music+working].sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Sorcery.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Spindizzy.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Spy vs Spy.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Strangeloop.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Super Sleuth.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Survivor.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Temple Of Doom.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/The Addams Family.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Thing On A Spring.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Tombstowne.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Tubaruba.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Turrican 2.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Vampire.sna</File>
+    <File>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Werewolves of London.sna</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -27,7 +27,7 @@ namespace BinaryContent
 		{
 			// TODO: change this to the name of your ContentTypeReader
 			// class which will be used to load this data.
-			return "XNACPC.BinaryReader, XNACPC";
+			return "XNACPC.BinaryReader, monocpc";
 		}
 	}
 }

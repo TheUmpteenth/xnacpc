@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/sna/Manic Miner.sna</SourceFile>
+  <SourceTime>2018-04-02T15:27:58.582862+01:00</SourceTime>
+  <DestFile>E:/Work/Workspace/monocpc/monocpc/monocpc/Content/bin/DesktopGL/sna/Manic Miner.xnb</DestFile>
+  <DestTime>2018-04-03T11:35:24.6268466+01:00</DestTime>
+  <Importer>BinaryImporter</Importer>
+  <ImporterTime>2018-04-03T10:46:40.3894694+01:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

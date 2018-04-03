@@ -1,0 +1,2 @@
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Release\monocpc.csprojResolveAssemblyReference.cache
+E:\Work\Workspace\monocpc\monocpc\monocpc\obj\Release\monocpc.csproj.CoreCompileInputs.cache
